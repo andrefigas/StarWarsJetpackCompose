@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="homeworld">Homeworld</string>
+    <string name="veichles">Veichles</string>
+    <string name="films">Films</string>
+    <string name="starship">Starship</string>
+    <string name="specie">Specie</string>
+</resources>
